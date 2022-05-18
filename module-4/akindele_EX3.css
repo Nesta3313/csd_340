@@ -1,0 +1,56 @@
+#movies {
+    width: 45%;
+    float: left;
+    font-family: 'Oswald', Verdana, Arial, sans-serif;
+    font-weight: 300px;
+    border: 1px solid red;
+    border-radius: 15px;
+    padding: 10px;
+}
+
+#list {
+    width: 45%;
+    float: right;
+    font-family: 'Oswald', Verdana, Arial, sans-serif;
+    font-weight: 300px;
+    border: 1px dashed red;
+    border-radius: 15px;
+    padding: 10px;
+}
+
+#last {
+    width: 100%;
+    margin-top: 60%;
+
+}
+
+#second_tag {
+    float: right;
+}
+
+h1 {
+    text-align: center;
+    font-family: 'Oswald',Verdana, Arial, sans-serif;
+}
+
+h3 {
+    font-weight: 500px;
+}
+
+#unordered {
+    list-style: upper-roman;
+}
+
+a {
+    font-family: 'Oswald', Verdana, Arial, sans-serif;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+#last {
+    float: right;
+    margin-bottom: 20px;
+}

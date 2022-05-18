@@ -1,0 +1,49 @@
+#portrait{
+    height: 400px;
+    width: 400px;
+    border-radius: 400px;
+
+
+}
+img{
+    height: 500px;
+    max-width: 500px;
+    margin:auto;
+    
+
+}
+
+h3{
+    color: #454545;
+}
+
+body{
+    text-align: center;
+    background-color: #F6E3DE;
+    font-family: 'Mukta', sans-serif;
+}
+#about_text{
+    margin: 30px;
+    padding: 50px;
+    line-height: 2.0em;
+}
+
+.card-body {
+    width: 400px;
+
+}
+
+.bg-secondary {
+    margin: 3px;
+    display: flex;
+    align-content: space-around;
+
+}
+.p-land {
+    line-height: 2.0em;
+}
+
+.l-img {
+    width:700px;
+    margin: 15px;
+}
